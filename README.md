@@ -47,15 +47,3 @@ Open **http://localhost:3000** in your browser.
 
 ---
 
-## 🌐 Deploy to Render
-
-This repository includes a [`render.yaml`](./render.yaml) blueprint ready for deployment.
-
-1. Go to [dashboard.render.com](https://dashboard.render.com).
-2. Click **New +** > **Web Service**.
-3. Connect your GitHub repository: `BhaveshDave09/AICTE-FDR-CONNECT`.
-4. Configure:
-   - **Root Directory**: `FDR-Final-main`
-   - **Build Command**: `npm install --include=dev --legacy-peer-deps && npm run build`
-   - **Start Command**: `npm start`
-5. Click **Deploy Web Service**.
