@@ -1,0 +1,11 @@
+{
+  "name": "fdr-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix FDR-Final-main run dev",
+    "start": "npm --prefix FDR-Final-main start",
+    "build": "npm --prefix FDR-Final-main run build"
+  }
+}
+

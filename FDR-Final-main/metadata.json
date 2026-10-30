@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix FDR Connect Final",
+  "description": "AICTE Regulation Bureau portal for Fixed Deposit Receipts (FDRs) lifecycle, bank verification, AI scrutiny, and automated expiry monitoring (Problem Statement ID: 26265).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
