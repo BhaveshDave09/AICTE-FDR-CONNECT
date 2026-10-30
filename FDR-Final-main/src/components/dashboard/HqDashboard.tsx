@@ -1,26 +1,18 @@
 import React, { useState } from 'react';
-import { 
-  Building2, 
-  FileCheck, 
-  AlertTriangle, 
-  Clock, 
-  ShieldCheck, 
-  TrendingUp, 
-  Download, 
-  RefreshCw, 
-  PlusCircle, 
-  Search, 
-  Filter, 
-  ArrowUpRight,
-  ExternalLink,
+import {
+  Building2,
+  AlertTriangle,
+  Clock,
+  ShieldCheck,
+  Download,
+  RefreshCw,
+  PlusCircle,
   ChevronRight,
   Sparkles,
   Check,
   CheckCircle2,
-  Inbox,
   Info,
-  Unlock,
-  FileText
+  Unlock
 } from 'lucide-react';
 import { ResponsiveContainer, BarChart, Bar, XAxis, YAxis, Tooltip, PieChart, Pie, Cell } from 'recharts';
 import { FdrInstrument, PortalKpiSummary, UserProfile } from '../../types';

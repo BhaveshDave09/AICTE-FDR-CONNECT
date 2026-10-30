@@ -1,6 +1,6 @@
 import React from 'react';
 import { Modal } from '../common/Modal';
-import { ShieldCheck, FileText, AlertCircle } from 'lucide-react';
+import { AlertCircle } from 'lucide-react';
 
 interface PolicyModalProps {
   isOpen: boolean;

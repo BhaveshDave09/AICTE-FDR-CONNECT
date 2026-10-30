@@ -1,17 +1,12 @@
 import React, { useState, useMemo } from 'react';
-import { 
-  Search, 
-  Filter, 
-  Download, 
-  PlusCircle, 
-  ChevronLeft, 
-  ChevronRight, 
-  Eye, 
-  RotateCcw, 
-  ShieldCheck, 
-  ArrowUpDown,
-  Building2,
-  FileSpreadsheet
+import {
+  Search,
+  Filter,
+  Download,
+  PlusCircle,
+  ChevronLeft,
+  ChevronRight,
+  ArrowUpDown
 } from 'lucide-react';
 import { FdrInstrument, UserProfile, RegionalZone } from '../../types';
 import { StatusBadge } from '../common/StatusBadge';

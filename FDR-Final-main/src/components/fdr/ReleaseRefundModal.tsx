@@ -1,12 +1,5 @@
 import React, { useState } from 'react';
-import { 
-  Building2, 
-  FileText, 
-  ShieldCheck, 
-  AlertCircle, 
-  Upload, 
-  CheckCircle2 
-} from 'lucide-react';
+
 import { FdrInstrument, UserProfile } from '../../types';
 import { Modal } from '../common/Modal';
 import { api } from '../../services/api';

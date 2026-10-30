@@ -1,17 +1,16 @@
 import React, { useState } from 'react';
-import { 
-  Calendar, 
-  Clock, 
-  AlertTriangle, 
-  CheckCircle2, 
-  Building2, 
-  Landmark, 
-  RefreshCw, 
-  Unlock, 
-  Eye, 
-  Play, 
-  Filter,
-  FileText
+import {
+  Calendar,
+  Clock,
+  AlertTriangle,
+  CheckCircle2,
+  Building2,
+  Landmark,
+  RefreshCw,
+  Unlock,
+  Eye,
+  Play,
+  Filter
 } from 'lucide-react';
 import { FdrInstrument, UserProfile } from '../../types';
 

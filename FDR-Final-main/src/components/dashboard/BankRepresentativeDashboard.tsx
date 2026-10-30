@@ -1,15 +1,11 @@
 import React, { useState } from 'react';
-import { 
-  Landmark, 
-  ShieldCheck, 
-  Clock, 
-  AlertTriangle, 
-  Search, 
-  QrCode, 
-  CheckCircle2, 
-  ExternalLink,
-  KeyRound,
-  FileCheck2
+import {
+  Landmark,
+  Clock,
+  AlertTriangle,
+  QrCode,
+  CheckCircle2,
+  KeyRound
 } from 'lucide-react';
 import { FdrInstrument, UserProfile } from '../../types';
 import { StatCard } from '../common/StatCard';

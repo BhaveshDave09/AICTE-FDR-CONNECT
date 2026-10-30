@@ -1,21 +1,15 @@
 import React, { useState, useEffect, useCallback, useRef } from 'react';
-import { 
-  ArrowLeft, 
-  FileText, 
-  ShieldCheck, 
-  AlertTriangle, 
-  CheckCircle2, 
-  XCircle, 
-  Layers, 
-  RotateCcw, 
-  RefreshCw, 
-  Send, 
+import {
+  ArrowLeft,
+  FileText,
+  ShieldCheck,
+  AlertTriangle,
+  CheckCircle2,
+  Layers,
+  RefreshCw,
+  Send,
   ExternalLink,
-  Calendar,
-  Building2,
-  Lock,
-  Sparkles,
-  Info
+  Sparkles
 } from 'lucide-react';
 import { FdrInstrument, UserProfile, DiscrepancyFlag, ExtractedFields } from '../../types';
 import { StatusBadge } from '../common/StatusBadge';

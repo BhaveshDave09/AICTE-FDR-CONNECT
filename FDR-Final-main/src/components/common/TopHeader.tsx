@@ -1,19 +1,14 @@
 import React, { useState } from 'react';
-import { 
-  Menu, 
-  Search, 
-  Bell, 
-  ChevronDown, 
-  LogOut, 
-  ExternalLink, 
-  UserCheck, 
-  Sparkles,
+import {
+  Menu,
+  Search,
+  Bell,
+  ChevronDown,
+  LogOut,
+  ExternalLink,
+  UserCheck,
   Bot,
   HelpCircle,
-  Building2,
-  Landmark,
-  ShieldCheck,
-  CheckCircle2,
   X
 } from 'lucide-react';
 import { UserProfile, UserRole } from '../../types';

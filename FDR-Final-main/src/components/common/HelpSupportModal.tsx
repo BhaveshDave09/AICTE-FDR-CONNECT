@@ -1,17 +1,11 @@
 import React, { useState } from 'react';
 import { Modal } from './Modal';
-import { 
-  HelpCircle, 
-  BookOpen, 
-  Phone, 
-  Mail, 
-  FileCheck, 
-  AlertTriangle, 
-  ShieldCheck, 
-  ExternalLink,
-  ChevronRight,
-  Landmark,
-  Building2
+import {
+  HelpCircle,
+  BookOpen,
+  Phone,
+  Mail,
+  FileCheck
 } from 'lucide-react';
 
 interface HelpSupportModalProps {

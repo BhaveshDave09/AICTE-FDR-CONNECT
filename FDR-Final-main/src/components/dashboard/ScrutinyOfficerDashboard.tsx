@@ -1,14 +1,10 @@
 import React from 'react';
-import { 
-  FileCheck2, 
-  AlertTriangle, 
-  Clock, 
-  ShieldCheck, 
-  Search, 
-  CheckCircle2, 
-  XCircle, 
-  Eye, 
-  RotateCcw,
+import {
+  AlertTriangle,
+  Clock,
+  ShieldCheck,
+  CheckCircle2,
+  Eye,
   Sparkles
 } from 'lucide-react';
 import { FdrInstrument, UserProfile } from '../../types';

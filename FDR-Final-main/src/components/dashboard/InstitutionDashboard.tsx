@@ -1,13 +1,10 @@
 import React from 'react';
-import { 
-  Building2, 
-  PlusCircle, 
-  RefreshCw, 
-  AlertTriangle, 
-  CheckCircle2, 
-  Clock, 
-  FileText, 
-  ArrowRight,
+import {
+  PlusCircle,
+  AlertTriangle,
+  CheckCircle2,
+  Clock,
+  FileText,
   ShieldAlert,
   Bot
 } from 'lucide-react';

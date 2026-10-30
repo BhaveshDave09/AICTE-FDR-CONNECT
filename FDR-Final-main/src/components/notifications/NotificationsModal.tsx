@@ -1,14 +1,5 @@
 import React, { useState } from 'react';
-import { 
-  Bell, 
-  RefreshCw, 
-  AlertTriangle, 
-  Clock, 
-  Calendar, 
-  CheckCircle2, 
-  X,
-  ExternalLink
-} from 'lucide-react';
+import { RefreshCw, AlertTriangle, Clock, ExternalLink } from 'lucide-react';
 import { ExpiryReminderNotification, UserProfile } from '../../types';
 import { Modal } from '../common/Modal';
 

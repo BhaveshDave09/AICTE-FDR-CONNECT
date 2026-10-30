@@ -1,18 +1,5 @@
 import React from 'react';
-import { 
-  Building2, 
-  ShieldCheck, 
-  FileText, 
-  PlusCircle, 
-  Download, 
-  MapPin, 
-  Mail, 
-  Phone, 
-  CheckCircle2, 
-  Landmark,
-  Calendar,
-  Layers
-} from 'lucide-react';
+import { Building2, PlusCircle, MapPin, CheckCircle2 } from 'lucide-react';
 import { Institution, FdrInstrument, UserProfile } from '../../types';
 
 interface MyInstitutionViewProps {

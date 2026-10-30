@@ -1,15 +1,5 @@
 import React, { useState } from 'react';
-import { 
-  FileClock, 
-  Search, 
-  Filter, 
-  ShieldCheck, 
-  User, 
-  Layers, 
-  AlertTriangle,
-  Landmark,
-  RotateCcw
-} from 'lucide-react';
+import { Search } from 'lucide-react';
 import { AuditEvent } from '../../types';
 
 interface AuditTrailViewProps {

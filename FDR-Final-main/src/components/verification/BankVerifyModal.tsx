@@ -1,21 +1,13 @@
 import React, { useState, useEffect } from 'react';
-import { 
-  Landmark, 
-  ShieldCheck, 
-  CheckCircle2, 
-  AlertTriangle, 
-  XCircle, 
-  QrCode, 
-  Calendar,
+import {
+  ShieldCheck,
+  CheckCircle2,
+  AlertTriangle,
+  XCircle,
+  QrCode,
   Lock,
-  UserCheck,
-  Building2,
   Clock,
   KeyRound,
-  FileText,
-  AlertCircle,
-  HelpCircle,
-  ExternalLink,
   RefreshCw,
   Search
 } from 'lucide-react';

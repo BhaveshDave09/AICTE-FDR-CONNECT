@@ -10,25 +10,15 @@ import {
   Clock,
   CheckCircle2,
   ArrowRight,
-  Shield,
-  HelpCircle,
   FileText,
   AlertTriangle,
-  RotateCcw,
-  Sparkles,
-  Search,
   Filter,
-  Download,
-  ExternalLink,
   ChevronDown,
   ChevronUp,
   Phone,
-  Mail,
   QrCode,
   Bot,
-  Lock,
-  Send,
-  Eye
+  Lock
 } from 'lucide-react';
 import { UserRole, RegionalZone } from '../../types';
 import { Modal } from '../common/Modal';

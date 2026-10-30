@@ -1,16 +1,15 @@
 import React, { useState, useEffect } from 'react';
-import { 
-  Lock, 
-  Mail, 
-  KeyRound, 
-  ArrowRight, 
-  ShieldCheck, 
-  Building2, 
-  Landmark, 
-  FileCheck2, 
-  MapPin, 
-  Layers, 
-  HelpCircle,
+import {
+  Lock,
+  Mail,
+  KeyRound,
+  ArrowRight,
+  ShieldCheck,
+  Building2,
+  Landmark,
+  FileCheck2,
+  MapPin,
+  Layers,
   AlertCircle,
   Sparkles,
   UserCheck

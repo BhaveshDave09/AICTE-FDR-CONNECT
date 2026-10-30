@@ -1,13 +1,5 @@
 import React, { useState } from 'react';
-import { 
-  RotateCcw, 
-  Upload, 
-  Calendar, 
-  Building2, 
-  FileText, 
-  ShieldCheck, 
-  AlertCircle 
-} from 'lucide-react';
+import { Upload } from 'lucide-react';
 import { FdrInstrument, UserProfile } from '../../types';
 import { Modal } from '../common/Modal';
 import { api } from '../../services/api';

@@ -11,7 +11,6 @@ import {
   Calendar,
   Bell,
   BarChart3,
-  Bot,
   HelpCircle,
   ShieldCheck,
   History,
@@ -30,7 +29,6 @@ import {
   Landmark,
   Key,
   ShieldAlert,
-  ArrowUpRight,
   FileClock
 } from 'lucide-react';
 import { UserProfile, UserRole } from '../../types';

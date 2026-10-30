@@ -1,20 +1,14 @@
 import React, { useState } from 'react';
-import { 
-  Building2, 
-  MapPin, 
-  Calendar, 
-  AlertTriangle, 
-  Clock, 
-  CheckCircle2, 
-  Download, 
+import {
+  Building2,
+  MapPin,
+  Clock,
+  CheckCircle2,
+  Download,
   Filter,
   Inbox,
   ShieldCheck,
-  FileText,
-  UserCheck,
   Check,
-  RotateCcw,
-  ExternalLink,
   Info,
   Forward
 } from 'lucide-react';

@@ -1,16 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
-import { 
-  Bot, 
-  Send, 
-  X, 
-  Sparkles, 
-  BookOpen, 
-  ShieldCheck, 
-  FileText, 
-  AlertCircle,
-  HelpCircle,
-  ArrowRight
-} from 'lucide-react';
+import { Bot, Send, X, Sparkles } from 'lucide-react';
 import { UserProfile } from '../../types';
 import { api } from '../../services/api';
 

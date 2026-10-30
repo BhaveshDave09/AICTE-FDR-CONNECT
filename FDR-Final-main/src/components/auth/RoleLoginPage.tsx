@@ -14,11 +14,7 @@ import {
   ShieldCheck,
   UserCheck,
   AlertCircle,
-  CheckCircle2,
-  ShieldAlert,
-  HelpCircle,
-  KeyRound,
-  Shield
+  ShieldAlert
 } from 'lucide-react';
 import { UserRole, UserProfile } from '../../types';
 import { api } from '../../services/api';

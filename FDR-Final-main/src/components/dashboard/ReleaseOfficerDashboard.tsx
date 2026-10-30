@@ -1,14 +1,10 @@
 import React, { useState } from 'react';
-import { 
-  ShieldCheck, 
-  Clock, 
-  CheckCircle2, 
-  XCircle, 
-  FileText, 
-  AlertCircle, 
-  FileCheck,
-  Building2,
-  ExternalLink
+import {
+  ShieldCheck,
+  Clock,
+  CheckCircle2,
+  FileText,
+  AlertCircle
 } from 'lucide-react';
 import { FdrInstrument, UserProfile, ReleaseRefundRequest } from '../../types';
 import { StatCard } from '../common/StatCard';

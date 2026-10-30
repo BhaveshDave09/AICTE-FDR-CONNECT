@@ -1,14 +1,5 @@
 import React from 'react';
-import { 
-  BarChart3, 
-  Download, 
-  TrendingUp, 
-  Building2, 
-  ShieldCheck, 
-  AlertTriangle, 
-  Clock, 
-  FileSpreadsheet 
-} from 'lucide-react';
+import { Download } from 'lucide-react';
 import { 
   ResponsiveContainer, 
   BarChart, 

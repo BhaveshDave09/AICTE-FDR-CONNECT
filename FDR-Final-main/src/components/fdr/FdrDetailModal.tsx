@@ -1,25 +1,17 @@
 import React, { useState, useEffect } from 'react';
-import { 
-  Building2, 
-  FileText, 
-  ShieldCheck, 
-  AlertTriangle, 
-  Clock, 
-  CheckCircle2, 
-  XCircle, 
-  Eye, 
-  RotateCcw, 
-  FileCheck, 
-  QrCode, 
+import {
+  FileText,
+  ShieldCheck,
+  AlertTriangle,
+  CheckCircle2,
+  RotateCcw,
+  FileCheck,
+  QrCode,
   ExternalLink,
-  Calendar,
   Layers,
-  Sparkles,
-  Bot,
   KeyRound,
   RefreshCw,
-  Unlock,
-  AlertCircle
+  Unlock
 } from 'lucide-react';
 import { FdrInstrument, UserProfile, ExtractedFields } from '../../types';
 import { Modal } from '../common/Modal';

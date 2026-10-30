@@ -1,16 +1,5 @@
 import React, { useState } from 'react';
-import { 
-  Upload, 
-  FileText, 
-  Sparkles, 
-  AlertTriangle, 
-  CheckCircle2, 
-  HelpCircle,
-  ShieldCheck,
-  Building2,
-  Calendar,
-  IndianRupee
-} from 'lucide-react';
+import { Upload, Sparkles, CheckCircle2 } from 'lucide-react';
 import { Institution, UserProfile, ExtractedFields } from '../../types';
 import { Modal } from '../common/Modal';
 import { api } from '../../services/api';

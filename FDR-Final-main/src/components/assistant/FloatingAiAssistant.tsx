@@ -1,18 +1,14 @@
 import React, { useState, useRef, useEffect } from 'react';
 import {
   Bot,
-  MessageSquare,
   Send,
   X,
   Minus,
-  Maximize2,
   Sparkles,
   BookOpen,
   ArrowRight,
   Shield,
-  RefreshCw,
-  ExternalLink,
-  ChevronDown
+  RefreshCw
 } from 'lucide-react';
 import { UserProfile, UserRole } from '../../types';
 import { api } from '../../services/api';
